@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HasmieuJay
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning version control
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me ...? email me @ hazmieujay@gmail.com
