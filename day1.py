@@ -13,3 +13,5 @@ def round_func(val): #A float type
             return val + to_add_to_val
         else:
             return val - remainder
+
+print(round_func(3.2))
